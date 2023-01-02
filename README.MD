@@ -50,6 +50,10 @@ For more Variable please see [config.py](https://github.com/Team-Deadly/DEADLY-U
 
 ## ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ 🚀
 
+This Deployment button is for Scalingo
+
+[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy)
+
 This Deployment button is for heroku paid and student pack users enjoy🥰! 
 
 <p align="center"><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/DEPLOY-HEROKU-red/black?style=for-the-badge&logo=heroku" width="230" height="30"/></a></p>
