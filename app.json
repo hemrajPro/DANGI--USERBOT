@@ -1,8 +1,8 @@
 {
-    "name": "Deadly-SpamUserbot",
+    "name": "DANGI-SpamUserbot",
     "description": "A First Telegram Spam Userbot Project With Multi Client Based On PyroGram!",
-    "logo": "https://te.legra.ph/file/1708946d4d11f914761f2.jpg",
-    "repository": "https://github.com/Team-Deadly/DEADLY-USERBOT",
+    "logo": "https://telegra.ph/file/291e92e0df0d1edefc516.jpg",
+    "repository": "https://github.com/hemrajdangi2210/DANGI-SPAM-USERBOT",
     "env": {
         "STRING_SESSION": {
             "description": "pyrogram string session here",
