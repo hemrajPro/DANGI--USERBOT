@@ -47,7 +47,7 @@ async def alive(client, m: Message):
     delta_ping = time() - start
     uptime_sec = (current_time - START_TIME).total_seconds()
     uptime = await _human_time_duration(int(uptime_sec))  
-    ALIVE_TXT = f"𝐃𝐄𝐀𝐃𝐋𝐘𝐒𝐏𝐀𝐌-𝐔𝐒𝐄𝐑𝐁𝐎𝐓 🇮🇳\n"
+    ALIVE_TXT = f" 𝐃𝐀𝐍𝐆𝐈 𝐒𝐏𝐀𝐌 𝐔𝐒𝐄𝐑𝐁𝐎𝐓🇮🇳\n"
     ALIVE_TXT += f"🔸**ʏᴏᴜʀ ᴅᴇᴀᴅʟʏsᴘᴀᴍ ɪs 𝟷𝟶𝟶% sᴀғᴇ ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ғɪɴᴇ**\n\n"
     ALIVE_TXT += f"🔹 **𝚃𝙷𝙸𝚂 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙸𝚂 100% 𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼 𝙰𝙽𝙳 𝚆𝙸𝚃𝙷𝙾𝚄𝚃 𝙲𝙻𝙾𝙽𝙴𝙳 𝙱𝚈 𝙰𝙽𝚈𝙾𝙽𝙴**\n\n"
     ALIVE_TXT += f"════════════════════\n"
@@ -55,7 +55,7 @@ async def alive(client, m: Message):
     ALIVE_TXT += f"🔹 𝗽𝘆𝘁𝗵𝗼𝗻 𝘃𝗲𝗿𝘀𝗶𝗼𝗻: {pthversion}\n"
     ALIVE_TXT += f"🔸𝘂𝗽𝘁𝗶𝗺𝗲 {uptime} 𝗽𝗶𝗻𝗴 {delta_ping * 1000:.3f}ᴍs\n\n"
     ALIVE_TXT += f"════════════════════\n"
-    ALIVE_TXT += f"🔸[𝘀𝘂𝗽𝗽𝗼𝗿𝘁](https://t.me/Deadly_spam_bot)🔹|🔸[𝗰𝗵𝗮𝗻𝗻𝗲𝗹](https://t.me/Deadly_spambot)\n"
+    ALIVE_TXT += f"🔸[𝘀𝘂𝗽𝗽𝗼𝗿𝘁](https://t.me/Dangi_UserBOTs)🔹|🔸[𝗰𝗵𝗮𝗻𝗻𝗲𝗹](https://t.me/Dangi_spambot)\n"
     await m.delete() 
     await m.reply_photo(photo=ALIVE_PIC, caption=ALIVE_TXT) 
 
@@ -75,7 +75,7 @@ async def ping(client, m: Message):
 @Client.on_message(filters.user(SUDOERS) & filters.command(["help", "cmds"], [".", "!", "/"]))
 async def eqw(client: Client, m: Message):
     blaze = await m.reply_text("Processing...")
-    help_a = f"🔥𝗗𝗘𝗔𝗗𝗟𝗬 𝗦𝗣𝗔𝗠 𝗨𝗦𝗘𝗥𝗕𝗢𝗧🔥\n\n"
+    help_a = f"🔥 𝐃𝐀𝐍𝐆𝐈 𝗦𝗣𝗔𝗠 𝗨𝗦𝗘𝗥𝗕𝗢𝗧🔥\n\n"
     help_a += f"𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙳𝙴𝙰𝙳𝙻𝚈 𝙲𝙼𝙳 𝙷𝙴𝙻𝙿\n\n"
     help_a += f"🔸 𝐃𝐌 𝐂𝐌𝐃𝐒 🚀\n\n"
     help_a += f".dm [username] [msz]\n"
@@ -94,6 +94,6 @@ async def eqw(client: Client, m: Message):
     help_a += f"🔸 𝐒𝐏𝐀𝐌 𝐂𝐌𝐃𝐒 🚀\n\n"
     help_a += f".spam [count] [spam_text]\n"
     help_a += f".delayspam [sleep time] [count] [message to spam]\n\n"
-    help_a += f"🔹 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘: @TheDeadlyBots\n"
+    help_a += f"🔹 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘: @The_DANGI\n"
     await m.delete() 
     await blaze.edit(help_a) 
