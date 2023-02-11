@@ -1,20 +1,20 @@
-<h1 align="center"><img src="./resources/geez.gif" width="28px">𝙳𝙴𝙰𝙳𝙻𝚈-𝚄𝚂𝙴𝚁𝙱𝙾𝚃<img src="./resources/geez.gif" width="28px"></h1>
+<h1 align="center"><img src="./resources/geez.gif" width="28px">𝐃𝐀𝐍𝐆𝐈 𝐔𝐒𝐄𝐑𝐁𝐎𝐓<img src="./resources/geez.gif" width="28px"></h1>
 
 <p align="center">
-    <a href="https://t.me/DEADLY_SPAM_BOT"><img src="https://img.shields.io/badge/sᴜᴘᴘᴏʀᴛ%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
-    <a href="https://t.me/DEADLY_SPAMBOT"><img src="https://img.shields.io/badge/ᴜᴘᴅᴀᴛᴇ%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+    <a href="https://t.me/The_Dangi"><img src="https://img.shields.io/badge/sᴜᴘᴘᴏʀᴛ%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
+    <a href="https://t.me/Dangi_support"><img src="https://img.shields.io/badge/ᴜᴘᴅᴀᴛᴇ%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
     </p>
 
 
 <p align="center">
-   <a href="https://github.com/Team-Deadly/DEADLY-USERBOT"><img src="https://te.legra.ph/file/1708946d4d11f914761f2.jpg" alt="Deadly-Userbot" width=400px></a>
+   <a href="https://github.com/Hemrajdangi2210/DANGI-SPAM-USERBOT"><img src="https://te.legra.ph/file/1708946d4d11f914761f2.jpg" alt="Dangi-userbot" width=400px></a>
    <br>
    <br>
 </p>
 
 <p align="center">
-    <a href="https://github.com/Team-Deadly/DEADLY-USERBOT/commits/DEADLY-USERBOT"><img src="https://img.shields.io/github/last-commit/Team-Deadly/DEADLY-USERBOT?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
-    <a href="https://travis-ci.com/Team-Deadly/DEADLY-USERBOT.svg?branch=main" /></a>
+    <a href="https://github.com/hemrajdangi2210/DANGI-SPAM-USERBOT/commits/DANGI-SPAM-USERBOT"><img src="https://img.shields.io/github/last-commit/hemrajdangi2210/DANGI-SPAM-USERBOT?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
+    <a href="https://travis-ci.com/hemrajdangi2210/DANGI-SPAM-USERBOT.svg?branch=main" /></a>
     <a href="https://github.com/Team-Deadly/DEADLY-USERBOT/issues"> <img src="https://img.shields.io/github/issues/Team-Deadly/DEADLY-USERBOT?color=blue&logo=github&style=for-the-badge" /></a>
     <a href="https://github.com/Team-Deadly/DEADLY-USERBOT"> <img src="https://img.shields.io/github/repo-size/Team-Deadly/DEADLY-USERBOT?logo=github&style=for-the-badge" /></a>
     <a href="https://github.com/Team-Deadly/DEADLY-USERBOT/network/members"> <img src="https://img.shields.io/github/forks/Team-Deadly/DEADLY-USERBOT?logo=github&style=for-the-badge" /></a>
