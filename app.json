@@ -54,7 +54,7 @@
         },
         "ALIVE_PIC": {
             "description": "a telegraph url of image for using in alive",
-            "required": true
+            "required": false
         },
         "API_HASH": {
             "description": "telegram api hash here get it from my.telegram.org/auth",
