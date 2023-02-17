@@ -48,7 +48,7 @@ async def alive(client, m: Message):
     uptime_sec = (current_time - START_TIME).total_seconds()
     uptime = await _human_time_duration(int(uptime_sec))  
     ALIVE_TXT = f" 𝐃𝐀𝐍𝐆𝐈 𝐒𝐏𝐀𝐌 𝐔𝐒𝐄𝐑𝐁𝐎𝐓🇮🇳\n"
-    ALIVE_TXT += f"🔸**ʏᴏᴜʀ ᴅᴇᴀᴅʟʏsᴘᴀᴍ ɪs 𝟷𝟶𝟶% sᴀғᴇ ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ғɪɴᴇ**\n\n"
+    ALIVE_TXT += f"🔸**ʏᴏᴜʀ sᴘᴀᴍ ɪs 𝟷𝟶𝟶% sᴀғᴇ ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ғɪɴᴇ**\n\n"
     ALIVE_TXT += f"🔹 **𝚃𝙷𝙸𝚂 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙸𝚂 100% 𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼 𝙰𝙽𝙳 𝚆𝙸𝚃𝙷𝙾𝚄𝚃 𝙲𝙻𝙾𝙽𝙴𝙳 𝙱𝚈 𝙰𝙽𝚈𝙾𝙽𝙴**\n\n"
     ALIVE_TXT += f"════════════════════\n"
     ALIVE_TXT += f"🔸𝗽𝘆𝗿𝗼𝗴𝗿𝗮𝗺 𝘃𝗲𝗿𝘀𝗶𝗼𝗻: {pversion}\n"
@@ -76,7 +76,7 @@ async def ping(client, m: Message):
 async def eqw(client: Client, m: Message):
     blaze = await m.reply_text("Processing...")
     help_a = f"🔥 𝐃𝐀𝐍𝐆𝐈 𝗦𝗣𝗔𝗠 𝗨𝗦𝗘𝗥𝗕𝗢𝗧🔥\n\n"
-    help_a += f"𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙳𝙴𝙰𝙳𝙻𝚈 𝙲𝙼𝙳 𝙷𝙴𝙻𝙿\n\n"
+    help_a += f"𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝗦𝗣𝗔𝗠 𝙲𝙼𝙳 𝙷𝙴𝙻𝙿\n\n"
     help_a += f"🔸 𝐃𝐌 𝐂𝐌𝐃𝐒 🚀\n\n"
     help_a += f".dm [username] [msz]\n"
     help_a += f".draid [count]  [username/reply_to_user]\n\n"
