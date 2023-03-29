@@ -21,11 +21,11 @@
     </p>
 
 
-<h1 align="center"><img src="./resources/GeezFire.gif" width="35px">𝚃𝙴𝙰𝙼-𝙳𝙴𝙰𝙳𝙻𝚈<img src="./resources/GeezFire.gif" width="35px"></h1>
+<h1 align="center"><img src="./resources/GeezFire.gif" width="35px"> Dangi <img src="./resources/GeezFire.gif" width="35px"></h1>
 
 ### STRING SESSION
 
-𝙜𝙚𝙣𝙚𝙧𝙖𝙩𝙚 𝙔𝙤𝙪𝙧 𝙎𝙩𝙧𝙞𝙣𝙜 𝙎𝙚𝙨𝙨𝙞𝙤𝙣 𝙐𝙨𝙞𝙣𝙜 𝙏𝙝𝙞𝙨 𝘽𝙤𝙩 𝙤𝙛𝙛𝙞𝙘𝙞𝙖𝙡 𝙗𝙤𝙩 𝙗𝙮 𝘿𝙚𝙖𝙙𝙡𝙮
+𝙜𝙚𝙣𝙚𝙧𝙖𝙩𝙚 𝙔𝙤𝙪𝙧 𝙎𝙩𝙧𝙞𝙣𝙜 𝙎𝙚𝙨𝙨𝙞𝙤𝙣 𝙐𝙨𝙞𝙣𝙜 𝙏𝙝𝙞𝙨 𝘽𝙤𝙩 𝙤𝙛𝙛𝙞𝙘𝙞𝙖𝙡 𝙗𝙤𝙩 
 
 <a href="https://t.me/Legend_SessionGeneratorBot"><img src="https://img.shields.io/badge/PyroStringBot-blue.svg?logo=telegram"></a>
 
