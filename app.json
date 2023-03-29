@@ -1,8 +1,8 @@
 {
-    "name": "DANGI-SpamUserbot",
+    "name": "DANGI-Userbot",
     "description": "A First Telegram Spam Userbot Project With Multi Client Based On PyroGram!",
-    "logo": "https://telegra.ph/file/291e92e0df0d1edefc516.jpg",
-    "repository": "https://github.com/hemrajdangi2210/DANGI-SPAM-USERBOT",
+    "logo": "https://telegra.ph/file/fcbe41674e4bdeda6ec60.jpg",
+    "repository": "https://github.com/itsDangiBoy/DANGI--USERBOT",
     "env": {
         "STRING_SESSION": {
             "description": "pyrogram string session here",
@@ -65,7 +65,7 @@
             "required": true
         }
     },
-  "stack": "heroku-20",
+  "stack": "heroku-22",
   "buildpacks": [
         {
             "url": "heroku/python"
