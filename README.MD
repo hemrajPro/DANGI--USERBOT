@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/itsDangiBoy/DANGI--USERBOT/commits/DANGI--USERBOT"><img src="https://img.shields.io/github/last-commit/hemrajdangi2210/DANGI-SPAM-USERBOT?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
+    <a href="https://github.com/ItsDangiBoy/DANGI--USERBOT/commits/DANGI--USERBOT"><img src="https://img.shields.io/github/last-commit/itsDangiBoy/DANGI--USERBOT?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
     <a href="https://travis-ci.com/itsDangiBoy/DANGI--USERBOT.svg?branch=main" /></a>
     <a href="https://github.com/itsDangiBoy/DANGI--USERBOT/issues"> <img src="https://img.shields.io/github/issues/Team-Deadly/DEADLY-USERBOT?color=blue&logo=github&style=for-the-badge" /></a>
     <a href="https://github.com/itsDangiBoy/Dangi--USERBOT"> <img src="https://img.shields.io/github/repo-size/Team-Deadly/DEADLY-USERBOT?logo=github&style=for-the-badge" /></a>
