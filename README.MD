@@ -7,13 +7,13 @@
 
 
 <p align="center">
-   <a href="https://github.com/itsDangiBoy/DANGI--USERBOT"><img src="https://te.legra.ph/file/1708946d4d11f914761f2.jpg" alt="Dangi-userbot" width=400px></a>
+   <a href="https://github.com/itsDangiBoy/DANGI--USERBOT"><img src="https://telegra.ph/file/fcbe41674e4bdeda6ec60.jpg" alt="Dangi-userbot" width=400px></a>
    <br>
    <br>
 </p>
 
 <p align="center">
-    <a href="https://github.com/itsDangiBoy/DANGI-SPAM-USERBOT/commits/DANGI-SPAM-USERBOT"><img src="https://img.shields.io/github/last-commit/hemrajdangi2210/DANGI-SPAM-USERBOT?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
+    <a href="https://github.com/itsDangiBoy/DANGI--USERBOT/commits/DANGI--USERBOT"><img src="https://img.shields.io/github/last-commit/hemrajdangi2210/DANGI-SPAM-USERBOT?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
     <a href="https://travis-ci.com/itsDangiBoy/DANGI--USERBOT.svg?branch=main" /></a>
     <a href="https://github.com/itsDangiBoy/DANGI--USERBOT/issues"> <img src="https://img.shields.io/github/issues/Team-Deadly/DEADLY-USERBOT?color=blue&logo=github&style=for-the-badge" /></a>
     <a href="https://github.com/itsDangiBoy/Dangi--USERBOT"> <img src="https://img.shields.io/github/repo-size/Team-Deadly/DEADLY-USERBOT?logo=github&style=for-the-badge" /></a>
