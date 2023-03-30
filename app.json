@@ -45,8 +45,8 @@
             "required": false
         },
         "API_ID": {
-            "description": "telegram api id here my.telegram.org/auth",
-            "required": true
+            "description": "telegram api id here my.telegram.org/auth  (if you don't have leave it blank. Bot can use own api id)",
+            "required": false
         },
         "SUDO_USERS": {
             "description": "ID of users who wana use this spamuserbot",
@@ -57,8 +57,8 @@
             "required": false
         },
         "API_HASH": {
-            "description": "telegram api hash here get it from my.telegram.org/auth",
-            "required": true
+            "description": "telegram api hash here get it from my.telegram.org/auth  (if you don't have leave it blank. Bot can use own api Hash)",
+            "required": false
         },
         "OWNER_ID": {
             "description": "Your ID as owner of the bot",
