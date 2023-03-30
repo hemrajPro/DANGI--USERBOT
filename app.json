@@ -1,10 +1,74 @@
-{ "name": "DANGI-Userbot", 
-"description": "A First Telegram Spam Userbot Project With Multi Client Based On PyroGram!", 
-"logo": "https://telegra.ph/file/fcbe41674e4bdeda6ec60.jpg", 
-"repository": "https://github.com/itsDangiBoy/DANGI--USERBOT", 
-
-"env": { "STRING_SESSION": 
-{ "description": "pyrogram string session here", 
-"required": true },
-
- "STRING_SESSION2": { "description": "pyrogram string session here", "required": false }, "STRING_SESSION3": { "description": "pyrogram string session here", "required": false }, "STRING_SESSION4": { "description": "pyrogram string session here", "required": false }, "STRING_SESSION5": { "description": "pyrogram string session here", "required": false }, "STRING_SESSION6": { "description": "pyrogram string session here", "required": false }, "STRING_SESSION7": { "description": "pyrogram string session here", "required": false }, "STRING_SESSION8": { "description": "pyrogram string session here", "required": false }, "STRING_SESSION9": { "description": "pyrogram string session here", "required": false }, "STRING_SESSION10": { "description": "pyrogram string session here", "required": false }, "API_ID": { "description": "telegram api id here my.telegram.org/auth", "required": true }, "SUDO_USERS": { "description": "ID of users who wana use this spamuserbot", "required": true }, "ALIVE_PIC": { "description": "a telegraph url of image for using in alive", "required": false }, "API_HASH": { "description": "telegram api hash here get it from my.telegram.org/auth", "required": true }, "OWNER_ID": { "description": "Your ID as owner of the bot", "required": true } }, "stack": "heroku-22", "buildpacks": [ { "url": "heroku/python" } ]}
+{
+    "name": "DANGI-SpamUserbot",
+    "description": "A First Telegram Spam Userbot Project With Multi Client Based On PyroGram!",
+    "logo": "https://telegra.ph/file/291e92e0df0d1edefc516.jpg",
+    "repository": "https://github.com/itsDangiBoy/DANGI--USERBOT",
+    "env": {
+        "STRING_SESSION": {
+            "description": "pyrogram string session here. Get it from https://t.me/Dangi_Session_Genrator_Bot ",
+            "required": true
+        },
+        "STRING_SESSION2": {
+            "description": "pyrogram string session here",
+            "required": false
+        },
+        "STRING_SESSION3": {
+            "description": "pyrogram string session here",
+            "required": false
+        },
+        "STRING_SESSION4": {
+            "description": "pyrogram string session here",
+            "required": false
+        },
+        "STRING_SESSION5": {
+            "description": "pyrogram string session here",
+            "required": false
+        },
+        "STRING_SESSION6": {
+            "description": "pyrogram string session here",
+            "required": false
+        },
+        "STRING_SESSION7": {
+            "description": "pyrogram string session here",
+            "required": false
+        },
+        "STRING_SESSION8": {
+            "description": "pyrogram string session here",
+            "required": false
+        },
+        "STRING_SESSION9": {
+            "description": "pyrogram string session here",
+            "required": false
+        },
+        "STRING_SESSION10": {
+            "description": "pyrogram string session here",
+            "required": false
+        },
+        "API_ID": {
+            "description": "telegram api id here my.telegram.org/auth  (If u don't have use 10248430 )",
+            "required": true
+        },
+        "SUDO_USERS": {
+            "description": "ID of users who wana use this spamuserbot",
+            "required": true
+        },
+        "ALIVE_PIC": {
+            "description": "a telegraph url of image for using in alive",
+            "required": false
+        },
+        "API_HASH": {
+            "description": "telegram api hash here get it from my.telegram.org/auth (If u don't have use 42396a6ff14a569b9d59931643897d0d )",
+            "required": true
+        },
+        "OWNER_ID": {
+            "description": "Your ID as owner of the bot",
+            "required": true
+        }
+    },
+  "stack": "heroku-20",
+  "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
