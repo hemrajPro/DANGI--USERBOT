@@ -8,57 +8,9 @@
             "description": "pyrogram string session here",
             "required": true
         },
-        "STRING_SESSION2": {
-            "description": "pyrogram string session here",
-            "required": false
-        },
-        "STRING_SESSION3": {
-            "description": "pyrogram string session here",
-            "required": false
-        },
-        "STRING_SESSION4": {
-            "description": "pyrogram string session here",
-            "required": false
-        },
-        "STRING_SESSION5": {
-            "description": "pyrogram string session here",
-            "required": false
-        },
-        "STRING_SESSION6": {
-            "description": "pyrogram string session here",
-            "required": false
-        },
-        "STRING_SESSION7": {
-            "description": "pyrogram string session here",
-            "required": false
-        },
-        "STRING_SESSION8": {
-            "description": "pyrogram string session here",
-            "required": false
-        },
-        "STRING_SESSION9": {
-            "description": "pyrogram string session here",
-            "required": false
-        },
-        "STRING_SESSION10": {
-            "description": "pyrogram string session here",
-            "required": false
-        },
-        "API_ID": {
-            "description": "telegram api id here my.telegram.org/auth  (if you don't have leave it blank. Bot can use own api id)",
-            "required": false
-        },
         "SUDO_USERS": {
             "description": "ID of users who wana use this spamuserbot",
             "required": true
-        },
-        "ALIVE_PIC": {
-            "description": "a telegraph url of image for using in alive",
-            "required": false
-        },
-        "API_HASH": {
-            "description": "telegram api hash here get it from my.telegram.org/auth  (if you don't have leave it blank. Bot can use own api Hash)",
-            "required": false
         },
         "OWNER_ID": {
             "description": "Your ID as owner of the bot",
