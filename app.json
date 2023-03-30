@@ -5,15 +5,15 @@
     "repository": "https://github.com/itsDangiBoy/DANGI--USERBOT",
     "env": {
         "STRING_SESSION": {
-            "description": "pyrogram string session here",
+            "description": "pyrogram string session here (get from http://T.me/Legend_SessionGeneratorBot )",
             "required": true
         },
         "SUDO_USERS": {
-            "description": "ID of users who wana use this spamuserbot",
+            "description": "ID of users who wana use this userbot (send /id to @MissRose_bot)",
             "required": true
         },
         "OWNER_ID": {
-            "description": "Your ID as owner of the bot",
+            "description": "Your ID as owner of the bot.   (send /id to @MissRose_bot)",
             "required": true
         }
     },
