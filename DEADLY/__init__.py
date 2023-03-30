@@ -25,17 +25,13 @@ if not STRING1:
     logging.error("At least 1 string is required! Exiting!")
     quit(1)
 
-if API_ID:
-    API_ID = API_ID
-else:
-     API_ID = 10248430
-    
+if not API_ID:
+    logging.error("Bot Cannot Start Without  API_ID ! Exiting!")
+    quit(1)
 
-if API_HASH:
-    API_HASH = API_HASH
-else:
-     API_HASH = 42396a6ff14a569b9d59931643897d0d
-    
+if not API_HASH:
+    logging.error("Bot Cannot Start Without API_HASH! Exiting!")
+    quit(1)
 
 if STRING1:
     print("[INFO] STRING1 Found!! Booting Dangi userbot Client1... ") 
