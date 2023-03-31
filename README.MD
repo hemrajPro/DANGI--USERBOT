@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./resources/geez.gif" width="28px">𝐃𝐀𝐍𝐆𝐈 𝐔𝐒𝐄𝐑𝐁𝐎𝐓<img src="./resources/geez.gif" width="28px"></h1>
+<h2 align="center"><img src="./resources/geez.gif" width="28px">𝐃𝐀𝐍𝐆𝐈 𝐔𝐒𝐄𝐑𝐁𝐎𝐓<img src="./resources/geez.gif" width="28px"></h2>
 
 <p align="center">
     <a href="https://t.me/The_Dangi"><img src="https://img.shields.io/badge/sᴜᴘᴘᴏʀᴛ%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
