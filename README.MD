@@ -7,7 +7,7 @@
 
 
 <p align="center">
-   <a href="https://github.com/itsDangiBoy/DANGI--USERBOT"><img src="https://telegra.ph/file/fcbe41674e4bdeda6ec60.jpg" alt="Dangi-userbot" width=400px></a>
+   <a href="https://github.com/hemrajpro/DANGI--USERBOT"><img src="https://telegra.ph/file/fcbe41674e4bdeda6ec60.jpg" alt="Dangi-userbot" width=400px></a>
    <br>
    <br>
 </p>
