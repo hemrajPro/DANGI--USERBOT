@@ -13,11 +13,11 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/ItsDangiBoy/DANGI--USERBOT/commits/DANGI--USERBOT"><img src="https://img.shields.io/github/last-commit/itsDangiBoy/DANGI--USERBOT?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
-    <a href="https://travis-ci.com/itsDangiBoy/DANGI--USERBOT.svg?branch=main" /></a>
-    <a href="https://github.com/itsDangiBoy/DANGI--USERBOT/issues"> <img src="https://img.shields.io/github/issues/Team-Deadly/DEADLY-USERBOT?color=blue&logo=github&style=for-the-badge" /></a>
-    <a href="https://github.com/itsDangiBoy/Dangi--USERBOT"> <img src="https://img.shields.io/github/repo-size/Team-Deadly/DEADLY-USERBOT?logo=github&style=for-the-badge" /></a>
-    <a href="https://github.com/itsDangiBoy/Dangi--USERBOT/network/members"> <img src="https://img.shields.io/github/forks/Team-Deadly/DEADLY-USERBOT?logo=github&style=for-the-badge" /></a>
+    <a href="https://github.com/HemrajPro/DANGI--USERBOT/commits/DANGI--USERBOT"><img src="https://img.shields.io/github/last-commit/HemrajPro/DANGI--USERBOT?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
+    <a href="https://travis-ci.com/HemrajPrO/DANGI--USERBOT.svg?branch=main" /></a>
+    <a href="https://github.com/hemrajPro/DANGI--USERBOT/issues"> <img src="https://img.shields.io/github/issues/Team-Deadly/DEADLY-USERBOT?color=blue&logo=github&style=for-the-badge" /></a>
+    <a href="https://github.com/HemrajPro/Dangi--USERBOT"> <img src="https://img.shields.io/github/repo-size/Team-Deadly/DEADLY-USERBOT?logo=github&style=for-the-badge" /></a>
+    <a href="https://github.com/HemrajPro/Dangi--USERBOT/network/members"> <img src="https://img.shields.io/github/forks/Team-Deadly/DEADLY-USERBOT?logo=github&style=for-the-badge" /></a>
     </p>
 
 
@@ -38,14 +38,14 @@ Dangi--𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙸𝚂 𝙴𝙰𝚂𝙸𝙻𝚈 𝙳𝙴�
 
 You Can easily host this source on any vps/local server just follow the given steps shown bellow. 
 ```console
-kaali@lunix~ $ git clone https://github.com/itsDangiBoy/Dangi-USERBOT
+kaali@lunix~ $ git clone https://github.com/HemrajPro/Dangi-USERBOT
 kaali@lunix~ $ cd DAngi-USERBOT
 kaali@lunix~ $ bash setup
 kaali@lunix~ $ screen
 kaali@lunix~ $ bash start
 ```
 
-For more Variable please see [config.py](https://github.com/itsDangiBoy/Dangi--USERBOT/blob/main/config/config.py) and feel as same provided there
+For more Variable please see [config.py](https://github.com/HemrajPro/Dangi--USERBOT/blob/main/config/config.py) and feel as same provided there
 
 
 ## ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ 🚀
@@ -56,7 +56,7 @@ This Deployment button is for Scalingo
 
 This Deployment button is for heroku paid and student pack users enjoy🥰! 
 
-<p align="center"><a href="https://dashboard.heroku.com/new-app?template=https://github.com/ItsDangiBoy/DANGI--USERBOT"> <img src="https://img.shields.io/badge/DEPLOY-HEROKU-red/black?style=for-the-badge&logo=heroku" width="230" height="30"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new-app?template=https://github.com/HemrajPro/DANGI--USERBOT"> <img src="https://img.shields.io/badge/DEPLOY-HEROKU-red/black?style=for-the-badge&logo=heroku" width="230" height="30"/></a></p>
 
 If You Face Any Error In Heroku Visit [Support](https://t.me/Dangi_X) 
 
@@ -64,7 +64,7 @@ If You Face Any Error In Heroku Visit [Support](https://t.me/Dangi_X)
 
 May this button not work on deploying to railway better fork this repo and manually deploy to railways 
 
-<p align="center"><a href="https://railway.app/new/template?template=https://github.com/itsDangiBoy/Dangi--USERBOT&envs=STRING_SESSION10,STRING_SESSION9,STRING_SESSION8,STRING_SESSION7,STRING_SESSION6,STRING_SESSION5,STRING_SESSION4,STRING_SESSION3,STRING_SESSION2,STRING_SESSION,API_ID,API_HASH,SUDO_USERS,ALIVE_PIC,OWNER_ID"> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-Blue?style=for-the-badge&logo=railway" width="260" height="39.75"/></a></p>
+<p align="center"><a href="https://railway.app/new/template?template=https://github.com/HemrajPro/Dangi--USERBOT&envs=STRING_SESSION10,STRING_SESSION9,STRING_SESSION8,STRING_SESSION7,STRING_SESSION6,STRING_SESSION5,STRING_SESSION4,STRING_SESSION3,STRING_SESSION2,STRING_SESSION,API_ID,API_HASH,SUDO_USERS,ALIVE_PIC,OWNER_ID"> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-Blue?style=for-the-badge&logo=railway" width="260" height="39.75"/></a></p>
 
 For deployment support visit [SUPPORT](https://t.me/dangi_x)
 
